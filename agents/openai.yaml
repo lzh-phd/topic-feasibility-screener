@@ -1,0 +1,4 @@
+interface:
+  display_name: "Topic Feasibility Screener"
+  short_description: "Check theory and data feasibility for empirical topics."
+  default_prompt: "Use $topic-feasibility-screener to propose feasible research topics from this CSV or DTA, search the literature, and run minimal significance checks."
