@@ -1,4 +1,4 @@
 interface:
   display_name: "Topic Feasibility Screener"
-  short_description: "Check theory and data feasibility for empirical topics."
-  default_prompt: "Use $topic-feasibility-screener to propose feasible research topics from this CSV or DTA, search the literature, and run minimal significance checks."
+  short_description: "Brainstorm empirical topics, search literature, score feasibility, and render a visual report."
+  default_prompt: "Use $topic-feasibility-screener to brainstorm research topics from this CSV or DTA, search real literature, score theory/data feasibility, and produce a visual HTML dashboard with second-pass validation for the top three topics."
